@@ -1,13 +1,13 @@
 export default function About() {
   return (
     <>
-      <section id="about">
-        <h1 className="mt-10 text-center text-black leading-relaxed text-lg ">
+      <section id="about" className="mb-15">
+        <h1 className="mt-10  text-center text-black leading-relaxed text-lg ">
           Welcome to Danulal Apartment perfect blend of luxury, comfort &
           convenience. Welcome to the brand new 2BHK Flat of ours Offering
           top-notch hospitality, food and beverage and recreational services in
           the largest city of Nepal, Kathmandu. This Flat is run and managed by
-          MR Danulal Bhtarrai, Mr.Chuppi kafle and Mrs.Thuski neupane.
+          MR Yogesh Bhatarrai, Mr.nischal kafle and Miss.puspa neupane.
         </h1>
         <nav className="flex gap-5 ">
           <div className="h-fit w-[45%] mt-5 ml-10 rounded-md bg-blue-200 p-4">
