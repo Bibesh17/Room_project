@@ -1,1 +1,1 @@
-A room project (like hotel website) for practicing react basics
+A room project (like hotel website) for practicing react Basics.
